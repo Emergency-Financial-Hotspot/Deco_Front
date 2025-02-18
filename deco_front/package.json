@@ -4,10 +4,12 @@
   "private": true,
   "dependencies": {
     "@firebasegen/default-connector": "file:dataconnect-generated/js/default-connector",
+    "@monaco-editor/react": "^4.7.0",
     "axios": "^1.7.9",
     "bootstrap": "^5.3.3",
     "cra-template": "1.2.0",
     "firebase": "^11.3.1",
+    "monaco-editor": "^0.52.2",
     "react": "^19.0.0",
     "react-bootstrap": "^2.10.9",
     "react-dom": "^19.0.0",
